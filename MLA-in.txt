@@ -1,0 +1,17 @@
+Taheri, Shahram, and Önsen Toygar. "Multi-stage Age Estimation Using Two Level Fusions of Handcrafted and Learned Features on Facial Images." IET Biometrics, vol. 8, no. 2, 2019, pp. 124-133.
+
+Taheri, Shahram, and Zahra Golrizkhatami. "Magnification-Specific and Magnification-Independent Classification of Breast Cancer Histopathological Image Using Deep Learning Approaches." Signal, Image and Video Processing, vol. 14, no 2, 2022, pp. 1-9.
+
+Golrizkhatami, Zahra, Shahram Taheri, and Adnan Acan. "Multi-scale Features for Heartbeat Classification Using Directed Acyclic Graph CNN." Applied Artificial Intelligence, vol. 32, no. 44, 2018, pp. 613-628.
+
+Taheri, Shahram, and Önsen Toygar. "Animal Classification Using Facial Images with Score-level Fusion." IET Computer Vision, vol. 12, no. 5, 2018, pp. 679-685.
+
+Brass, Peter, et al. "On Simultaneous Planar Graph Embeddings." Computational Geometry, vol. 36, no. 2, 2007, pp. 117-130.
+
+Erten, Cesim, et al. "PersonaDrive: A Method for the Identification and Prioritization of Personalized Cancer Drivers." Bioinformatics, vol. 38, no. 13, 2022, pp. 3407-3414.
+
+Erten, Cesim, Hilal Kazan. "Ranking Cancer Drivers via Betweenness-based Outlier Detection and Random Walks." BMC Bioinformatics, vol. 22, no. 1, 2021, pp. 1-16.
+
+Sussman, Gerald, and Jack Wisdom. "A Computer Science Reader." Science, vol. 187, no. 4175, 1975, pp. 627-634
+
+Brooks, Frederick, and Jr Jack. "No Silver Bullet: Essence and Accidents of Software Engineering." IEEE Computer, vol. 20, no. 4, 1987, pp. 1-19.

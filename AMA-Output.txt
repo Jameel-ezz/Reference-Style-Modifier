@@ -1,0 +1,20 @@
+AMA citation format:
+
+Taheri S, Toygar Ã. Multi-stage Age Estimation Using Two Level Fusions of Handcrafted and Learned Features on Facial Images. IET Biometrics. 2019;8(2);124-133.
+
+Taheri S, Golrizkhatami Z. Magnification-Specific and Magnification-Independent Classification of Breast Cancer Histopathological Image Using Deep Learning Approaches. Signal. 2019;8(2);124-133.
+
+Golrizkhatami Z, Acan A. Multi-scale Features for Heartbeat Classification Using Directed Acyclic Graph CNN. Applied Artificial Intelligence. 2018;32(44);613-628.
+
+Taheri S, Toygar Ã. Animal Classification Using Facial Images with Score-level Fusion. IET Computer Vision. 2018;12(5);679-685.
+
+Brass P, et al. On Simultaneous Planar Graph Embeddings. Computational Geometry. 2007;36(2);117-130.
+
+Erten C, et al. PersonaDrive: A Method for the Identification and Prioritization of Personalized Cancer Drivers. Bioinformatics. 2022;38(13);3407-3414.
+
+Erten C, Kazan H. Ranking Cancer Drivers via Betweenness-based Outlier Detection and Random Walks. BMC Bioinformatics. 2021;22(1);1-16.
+
+Sussman G, Wisdom J. A Computer Science Reader. Science. 1975;187(4175);627-634.
+
+Brooks F, Jack J. No Silver Bullet: Essence and Accidents of Software Engineering. IEEE Computer. 1987;20(4);1-19.
+
