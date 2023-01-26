@@ -277,7 +277,6 @@ int main()
 
         fprintf(fp6, "[%d] %s %c, and %s. \"%s.\", %s, vol %d, no. %d, pp. %d-%d, %d.\n", i + 1, citation.author_ln, citation.author_fn[0], authors_part, citation.title,
                 citation.journal, citation.volume, citation.issue, citation.pages1, citation.pages2, citation.year);
-        fprintf(fp6, "\n");
     }
 
     fclose(fp6);
