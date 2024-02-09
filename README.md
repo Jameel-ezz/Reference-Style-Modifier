@@ -1,0 +1,2 @@
+
+This computer program helps change writing references from one style to another. For example, if you have a list of sources written in MLA style, it can convert them into other styles like APA or Chicago. It reads the MLA references from a file, understands their parts, and then rewrites them in the new style. It does this automatically, making it easier for people who need to use different citation styles for their work.
